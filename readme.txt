@@ -1,0 +1,1 @@
+Course dedicated to Kaggle platform
